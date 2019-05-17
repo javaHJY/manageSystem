@@ -1,0 +1,4 @@
+员工管理系统：本项目由最原始的技术实现
+dao层：jdbc
+控制层：servlet
+view层：jsp
